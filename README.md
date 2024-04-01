@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @imtarun2001
+- 👋 Hi, I’m Tarun Kumar Behera
+- 📍I live in CUTTACK(a district of ODISHA)
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React.js
 - 📫 Reach me via tarunkumarbehera8249@gmail.com
