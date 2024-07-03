@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Tarun Kumar Behera
 - 📍I live in CUTTACK(a district of ODISHA)
-- 👀 Interested in Web Development
+- 👀 Interested in Full Stack Web Development
 - 📫 Reach me via tarunkumarbehera8249@gmail.com
 - 📫 Reach me via +91 8249390690
+- 📫 Hackerrank : https://www.hackerrank.com/profile/tarunku8249
 - 📫 Reach me via www.linkedin.com/in/tarun-kumar-behera-228b3b242
 - 🌱 Currently learning React.js
 - ⚡ Currently I'm building my portfolio
