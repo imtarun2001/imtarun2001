@@ -3,7 +3,7 @@
 - 👀 Interested in Full Stack Web Development
 - 📫 Reach me via tarunkumarbehera8249@gmail.com
 - 📫 Reach me via +91 8249390690
-- 📫 Hackerrank : https://www.hackerrank.com/profile/tarunku8249
-- 📫 LinkedIn : https://www.linkedin.com/in/tarun-kumar-behera-228b3b242
 - 🌱 Currently learning MERN stack
 - ⚡ Currently I'm building my MERN projects
+- 📫 LinkedIn : https://www.linkedin.com/in/tarun-kumar-behera-228b3b242
+- 📫 Hackerrank : https://www.hackerrank.com/profile/tarunku8249
