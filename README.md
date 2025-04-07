@@ -5,5 +5,5 @@
 - 📫 Reach me via +91 8249390690
 - 📫 Hackerrank : https://www.hackerrank.com/profile/tarunku8249
 - 📫 LinkedIn : https://www.linkedin.com/in/tarun-kumar-behera-228b3b242
-- 🌱 Currently learning React.js
-- ⚡ Currently I'm building my portfolio
+- 🌱 Currently learning MERN stack
+- ⚡ Currently I'm building my MERN projects
